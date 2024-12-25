@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/Leonardo_Lightning_XL_create_knight_character_as_podcaster_med_2.jpg"
     width="300"
 />
 </p>
